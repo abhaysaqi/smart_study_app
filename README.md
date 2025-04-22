@@ -44,8 +44,19 @@ StudySmart is an AI-powered learning assistant designed to simplify and enhance 
 
 ## 📱 Screenshots
 
-> ![Dashboard](./screenshots/images/dashboard.jpeg)
-> *(More screenshots can be added here to show other features)*
+<div align="center">
+
+  <img src="https://github.com/abhaysaqi/smart_study_app/blob/main/screenshots/dashboard.jpeg" width="30%" />
+  <img src="screenshots/question_solver.jpeg" width="30%" />
+  <img src="screenshots/writing_assistant.jpeg" width="30%" />
+
+  <br/><br/>
+
+  <img src="screenshots/quiz_generator.jpeg" width="30%" />
+  <img src="screenshots/code_helper.jpeg" width="30%" />
+  <img src="screenshots/study_history.jpeg" width="30%" />
+
+</div>
 
 ---
 
