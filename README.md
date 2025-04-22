@@ -32,6 +32,39 @@ StudySmart is an AI-powered learning assistant designed to simplify and enhance 
 - **AI Integration**: OpenAI 
 
 ---
+Follow the steps below to set up and run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/abhaysaqi/smart_study_app.git
+cd smart_study_app
+```
+
+### 2. Get Flutter Packages
+```bash
+flutter pub get
+```
+
+### 3. Add Your OpenAI API Key
+
+Open the file where the API key is defined (e.g., lib/services/api_service.dart).
+Replace this line:
+
+```bash
+const String openAiApiKey = 'OPENAI-API-KEY';
+```
+With your actual API key:
+
+```bash
+const String openAiApiKey = 'sk-your-real-key-here';
+```
+
+
+### 4. Run the App
+```bash
+flutter run
+```
 
 ## 🧠 How It Works
 
