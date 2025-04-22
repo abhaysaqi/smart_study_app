@@ -1,16 +1,68 @@
-# ai_teacher
+# 📚 StudySmart
 
-A new Flutter project.
+**Making studying efficient, interactive, and personalized.**
 
-## Getting Started
+StudySmart is an AI-powered learning assistant designed to simplify and enhance the student experience. With powerful tools like instant question solving, smart writing suggestions, quiz generation, and code support, it's the ultimate study companion for learners of all levels.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📷 Question Solver
+- Scan and solve handwritten or printed questions.
+- Get instant answers across various subjects using AI.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ✍️ Writing Assistant
+- Enhance, paraphrase, or expand essays.
+- Refine your content or summarize large documents with ease.
+
+### ❓ Quiz Generator
+- Practice with AI-generated quizzes.
+- Boost your knowledge on any subject in a fun and interactive way.
+
+### 💻 Code Helper
+- Get code reviews, suggestions, and explanations.
+- Improve your programming skills with AI support.
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend**: Flutter
+- **AI Integration**: OpenAI 
+
+---
+
+## 🧠 How It Works
+
+1. Choose a feature from the dashboard.
+2. Interact with AI by uploading a photo, writing content, or choosing a quiz topic.
+3. Get instant feedback, results, or generated content.
+4. Save your progress and continue learning at your own pace.
+
+---
+
+## 📱 Screenshots
+
+> ![Dashboard](./screenshots/images/dashboard.jpeg)
+> *(More screenshots can be added here to show other features)*
+
+---
+
+## 📩 Feedback & Support
+
+If you have any suggestions, questions, or issues, feel free to reach out!
+
+- Email: [abhaysaqi9@gmail.com]
+- GitHub: [github/abhaysaqi]
+- Instagram: [https://www.instagram.com/abhay_only27/]
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Let AI take your study game to the next level! 🎓💡**
